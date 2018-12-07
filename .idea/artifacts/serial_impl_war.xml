@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serial-impl:war">
+    <output-path>$PROJECT_DIR$/serial-impl/target</output-path>
+    <root id="archive" name="serial-impl-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="serial-impl:war exploded" />
+    </root>
+  </artifact>
+</component>

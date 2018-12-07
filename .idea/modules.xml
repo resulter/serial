@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serial-impl/serial-impl.iml" filepath="$PROJECT_DIR$/serial-impl/serial-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serial-root.iml" filepath="$PROJECT_DIR$/serial-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serial-service/serial-service.iml" filepath="$PROJECT_DIR$/serial-service/serial-service.iml" />
+    </modules>
+  </component>
+</project>
